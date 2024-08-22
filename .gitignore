@@ -1,0 +1,54 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore CSV files
+*.csv
+
+# Ignore Excel files
+*.xls
+*.xlsx
+
+# Ignore JSON files
+*.json
+
+# Ignore SQL dump files
+*.sql
+
+# Ignore TSV (Tab Separated Values) files
+*.tsv
+
+# Ignore XML files
+*.xml
+
+# Ignore parquet files
+*.parquet
+
+# Ignore HDF5 files
+*.h5
+*.hdf5
+
+# Ignore pickle files
+*.pkl
+
+# Ignore MATLAB files
+*.mat
+
+# Ignore Feather format files
+*.feather
+
+# Ignore SAS files
+*.sas7bdat
+*.xpt
+
+# Ignore SPSS files
+*.sav
+*.zsav
+
+# Ignore Stata files
+*.dta
