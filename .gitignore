@@ -1,6 +1,7 @@
 # Ignore entire data directories
 /data/
 /datasets/
+dataset/
 
 # Ignore macOS system files
 .DS_Store
