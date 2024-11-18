@@ -4,6 +4,8 @@
 dataset/
 Datasets/
 /Datasets/
+Software/
+Exercises/
 
 # Ignore macOS system files
 .DS_Store
